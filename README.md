@@ -10,8 +10,13 @@ A comprehensive and FREE Online Go hacking tutorial utilizing the x64, ARM64 and
 ## FREE Book
 [Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
 
-## Chapter 1: Hello Distributed System World x64
+## Chapter 1: Hello Distributed System World
 This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Chapter 2: Debugging Hello Distributed System World
+This chapter covers debugging of the basic hello world style Go program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
