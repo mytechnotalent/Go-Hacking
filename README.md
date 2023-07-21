@@ -5,7 +5,7 @@
 <br>
 
 # Go Hacking
-A comprehensive and FREE Online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
+A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
 ## FREE Book
 [Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
