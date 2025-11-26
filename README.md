@@ -7,8 +7,11 @@
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
-## FREE Book
-[Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
+<br>
+
+# FREE Book [Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
+
+<br>
 
 ## Chapter 1: Hello Distributed System World
 This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
@@ -70,5 +73,7 @@ This chapter covers Golang hacking advanced control flow for the x64 architectur
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
-## License
+<br>
+
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
