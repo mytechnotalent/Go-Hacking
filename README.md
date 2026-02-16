@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [February 14, 2026]
+## Lesson 107: ARM-32 Course 2 (Part 42 – Debugging Post-Increment Operator)
+This tutorial will discuss debugging post-increment operator.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
