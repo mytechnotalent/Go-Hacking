@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [February 17, 2026]
-## Lesson 108: ARM-32 Course 2 (Part 43 – Hacking Post-Increment Operator)
-This tutorial will discuss hacking post-increment operator.
+# Today's Tutorial [February 18, 2026]
+## Lesson 109: ARM-32 Course 2 (Part 44 – Pre-Decrement Operator)
+This tutorial will discuss the pre-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
