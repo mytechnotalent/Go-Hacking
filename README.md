@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [February 23, 2026]
-## Lesson 114: ARM-32 Course 2 (Part 49 – Hacking Post-Decrement Operator)
-This tutorial will discuss hacking post-decrement operator.
+# Today's Tutorial [February 24, 2026]
+## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
+ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+-> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World) to read the project on GitHub.
 
 <br>
 
