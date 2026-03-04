@@ -4,14 +4,6 @@
 
 <br>
 
-# Today's Tutorial [March 2, 2026]
-## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
-This tutorial will discuss the cyber revolution.
-
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
-
-<br>
-
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
