@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [March 11, 2026]
-## Lesson 127: x64 Course (Part 7 - Word Lengths)
-This tutorial will discuss word lengths.
+# Today's Tutorial [March 13, 2026]
+## Lesson 128: x64 Course (Part 8 - General Architecture)
+This tutorial will discuss the general architecture.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
