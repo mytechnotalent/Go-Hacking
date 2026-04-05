@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [April 5, 2026]
+## Lesson 150: x64 Course (Part 30 - x64 Assembly [Part 4])
+This tutorial will discuss more x64 assembly.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
