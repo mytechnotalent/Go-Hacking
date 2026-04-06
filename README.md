@@ -4,8 +4,8 @@
 
 <br>
 
-# Today's Tutorial [April 5, 2026]
-## Lesson 150: x64 Course (Part 30 - x64 Assembly [Part 4])
+# Today's Tutorial [April 6, 2026]
+## Lesson 151: x64 Course (Part 31 - x64 Assembly [Part 5])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
