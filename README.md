@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 8, 2026]
-## Lesson 153: x64 Course (Part 33 - x64 Assembly [Part 7])
-This tutorial will discuss more x64 assembly.
+# Today's Tutorial [April 9, 2026]
+## Lesson 154: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
+This tutorial will discuss C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
