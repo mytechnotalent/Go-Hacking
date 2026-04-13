@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 12, 2026]
-## Lesson 157: x64 Course (Part 37 - x64 C & Genesis Of Life)
-This tutorial will discuss c and how it relates to x64 assembly.
+# Today's Tutorial [April 13, 2026]
+## Lesson 158: x64 Course (Part 38 - x64 Networking Basics)
+This tutorial will discuss x64 networking basics.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
