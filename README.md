@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 14, 2026]
-## Lesson 159: x64 Course (Part 39 - Why C?)
-This tutorial will discuss the power of the c language.
+# Today's Tutorial [April 15, 2026]
+## Lesson 160: x64 Course (Part 40 - Hacking Hello World!)
+This tutorial will discuss hacking hello world.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
