@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 15, 2026]
-## Lesson 160: x64 Course (Part 40 - Hacking Hello World!)
-This tutorial will discuss hacking hello world.
+# Today's Tutorial [April 16, 2026]
+## Lesson 161: x64 Course (Part 41 - Hacking Variables!)
+This tutorial will discuss hacking variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
