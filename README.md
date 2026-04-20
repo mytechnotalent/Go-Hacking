@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 19, 2026]
-## Lesson 164: ARM-64 Course (Part 1 - The Meaning Of Life)
-In this lesson we will discuss the course concepts and the meaning of life.
+# Today's Tutorial [April 20, 2026]
+## Lesson 165: ARM-64 Course (Part 2 - Development Setup)
+In this lesson we will discuss how to set up our development in 64-bit ARM with Kali Linux.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
