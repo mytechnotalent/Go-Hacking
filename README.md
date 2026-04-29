@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [April 27, 2026]
-## Lesson 172: ARM-64 Course (Part 9 - Character Primitive Datatype)
-In this lesson we will discuss the char primitive datatype.
+# Today's Tutorial [April 29, 2026]
+## Lesson 174: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
+In this lesson we will discuss hacking the char primitive datatype.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
