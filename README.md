@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 9, 2026]
-## Lesson 183: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
-In this lesson we will discuss hacking the double primitive datatype.
+# Today's Tutorial [May 10, 2026]
+## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
+In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
