@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 16, 2026]
-## Lesson 186: Pico Hacking Course (Part 3 - Debugging Hello World)
-In this lesson we will discuss debugging the basic Hello World program.
+# Today's Tutorial [May 17, 2026]
+## Lesson 187: Pico Hacking Course (Part 4 - Hacking Hello World)
+In this lesson we will discuss hacking the basic Hello World program.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
