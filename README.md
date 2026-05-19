@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 18, 2026]
-## Lesson 188: Pico Hacking Course (Part 5 - char)
-In this lesson we will discuss the char data type.
+# Today's Tutorial [May 19, 2026]
+## Lesson 189: Pico Hacking Course (Part 6 - Debugging char)
+In this lesson we will discuss debugging the char data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
