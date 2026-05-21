@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 20, 2026]
-## Lesson 190: Pico Hacking Course (Part 7 - Hacking char)
-In this lesson we will discuss hacking the char data type.
+# Today's Tutorial [May 21, 2026]
+## Lesson 191: Pico Hacking Course (Part 8 - int)
+In this lesson we will discuss the int data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
