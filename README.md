@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 21, 2026]
-## Lesson 191: Pico Hacking Course (Part 8 - int)
-In this lesson we will discuss the int data type.
+# Today's Tutorial [May 22, 2026]
+## Lesson 192: Pico Hacking Course (Part 9 - Debugging int)
+In this lesson we will discuss debugging the int data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
