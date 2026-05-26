@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 25, 2026]
-## Lesson 195: Pico Hacking Course (Part 12 - Debugging float)
-In this lesson we will discuss debugging the float data type.
+# Today's Tutorial [May 26, 2026]
+## Lesson 197: Pico Hacking Course (Part 14 - double)
+In this lesson we will discuss the double data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
