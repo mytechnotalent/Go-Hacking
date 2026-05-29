@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 27, 2026]
-## Lesson 198: Pico Hacking Course (Part 15 - Debugging double)
-In this lesson we will discuss debugging the double data type.
+# Today's Tutorial [May 29, 2026]
+## Lesson 199: Pico Hacking Course (Part 16 - Hacking double)
+In this lesson we will discuss hacking the double data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
