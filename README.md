@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 30, 2026]
-## Lesson 200: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
-In this lesson we will discuss the concept of proper input handling.
+# Today's Tutorial [May 31, 2026]
+## Lesson 202: Pico Hacking Course (Part 19 - Input)
+In this lesson we will discuss creating an effective input architecture.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
