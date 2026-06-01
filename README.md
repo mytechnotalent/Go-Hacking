@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [May 31, 2026]
-## Lesson 202: Pico Hacking Course (Part 19 - Input)
-In this lesson we will discuss creating an effective input architecture.
+# Today's Tutorial [June 1, 2026]
+## Lesson 203: Pico Hacking Course (Part 20 - Debugging Input)
+In this lesson we will discuss debugging input.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
