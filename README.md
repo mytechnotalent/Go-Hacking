@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [June 17, 2026]
-## Lesson 218: Hacking Windows Course (Chapter 15: Hacking CopyFile x86)
-This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
+# Today's Tutorial [June 18, 2026]
+## Lesson 219: Hacking Windows Course (Chapter 16: MoveFile)
+This chapter covers reviewing the Windows API MoveFileW function in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
