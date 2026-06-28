@@ -4,14 +4,6 @@
 
 <br>
 
-# Today's Tutorial [June 28, 2026]
-## Lesson 229: Hacking Windows Course (Chapter 26: WriteFile)
-This chapter covers reviewing the Windows API WriteFile function in C.
-
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
-
-<br>
-
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
