@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [June 29, 2026]
+## Lesson 230: Hacking Windows Course (Chapter 27: Debugging WriteFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API WriteFile function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
+
+<br>
+
 # Go Hacking
 A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
