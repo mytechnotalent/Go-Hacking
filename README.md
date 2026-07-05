@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July, 3 2026]
-## Lesson 234: Go Hacking Course (Chapter 1: Hello Distributed System World)
-This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
+# Today's Tutorial [July 5, 2026]
+## Lesson 236: Go Hacking Course (Chapter 3: Hacking Hello Distributed System World)
+This chapter covers hacking of the basic hello world style Go program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
