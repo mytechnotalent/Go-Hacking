@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 8, 2026]
-## Lesson 238: Go Hacking Course (Chapter 5: Debugging Primitive Types)
-This chapter covers Golang debugging of the primitive types for the x64 architecture.
+# Today's Tutorial [July 9, 2026]
+## Lesson 239: Go Hacking Course (Chapter 6: Hacking Primitive Types)
+This chapter covers Golang hacking of the primitive types for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
