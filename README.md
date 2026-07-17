@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 16, 2026]
-## Lesson 246: Hacking Rust Course (Chapter 1: Hello Rust)
-This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
+# Today's Tutorial [July 17, 2026]
+## Lesson 247: Hacking Rust Course (Chapter 2: Debugging Hello Rust)
+This chapter covers debugging the basic hello world style Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
