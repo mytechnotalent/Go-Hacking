@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 20, 2026]
-## Lesson 250: Hacking Rust Course (Chapter 5: Debugging Scalar Data Types)
-This chapter covers debugging scalar data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 21, 2026]
+## Lesson 251: Hacking Rust Course (Chapter 6: Hacking Scalar Data Types)
+This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
