@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.png?raw=true)
+![image](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go-Hacking.png?raw=true)
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
