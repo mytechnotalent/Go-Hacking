@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [November 24, 2026]
-## Lesson 362: AVR Assembler Course (Chapter 016: 74HC595 Shift Register)
-This lesson will teach you how to expand your microcontroller's outputs by implementing a custom Serial Peripheral interface driver (bit-banging) to drive an 8-bit Shift Register, animating a "Knight Rider" LED chaser.
+# Today's Tutorial [November 26, 2026]
+## Lesson 364: AVR Assembler Course (Chapter 018: Photocell (Light Sensor))
+This lesson will teach you how to divide ADC sensor data using a "repeated subtraction" algorithm and use the `SEC` (Set Carry) and `ROL` (Rotate Left through Carry) instructions to dynamically build and display an LED bar graph on a Shift Register.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/016/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/018/lesson.md) to read the lesson and see the code.
 
 <br>
 
